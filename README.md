@@ -1,2 +1,2 @@
 # Wandmalerei-Front
-საიტის ლინკი - https://psixsaba.github.io/Wandmalerei-Front/
+Site Link - https://psixsaba.github.io/Wandmalerei-Front/
